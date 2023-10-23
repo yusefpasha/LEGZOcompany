@@ -2,8 +2,8 @@
 
 # LEGZO ![GitHub release (latest by date)](https://img.shields.io/github/v/release/yusefpasha/LEGZO?label=Latest%20Release) ![GitHub pre-release](https://img.shields.io/github/v/release/yusefpasha/LEGZO?include_prereleases&label=Pre-release)
 Dowload Application: 
-[![Download Release](https://img.shields.io/badge/Download-Release-brightgreen)](https://github.com/yusefpasha/LEGZO/releases/download/v1/LEGZO.apk)
-[![Download Pre-Release](https://img.shields.io/badge/Download-Pre--Release-yellow)](https://github.com/yusefpasha/LEGZO/releases/download/v2/LEGZO.apk)
+[![Download Release](https://img.shields.io/badge/Download-Release-brightgreen)](https://github.com/yusefpasha/LEGZO/releases/download/v1/LEGZOv1.apk)
+[![Download Pre-Release](https://img.shields.io/badge/Download-Pre--Release-yellow)](https://github.com/yusefpasha/LEGZO/releases/download/v2/LEGZOv2.apk)
 
 # Alarm, Smart Home and Remote Controller Application
 
