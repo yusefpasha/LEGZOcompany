@@ -37,4 +37,4 @@ This Android application serves as a Smart Home Remote Controller and Alarm Syst
 
 ## Contact
 
-Have questions or suggestions? Feel free to [open an issue](https://github.com/yusefpasha/LEGZO/issues) or contact us at `legzo.ir@gmail.com`.
+Have questions or suggestions? Feel free to [open an issue](https://github.com/yusefpasha/LEGZO/issues)
